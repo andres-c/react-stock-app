@@ -1,5 +1,5 @@
 # Description
-Project meant for practicing Redux-Saga. Utilizes High Charts library to display historical quote data for Apple, Tesla & Amazon.
+React project meant for practicing Redux-Saga. Utilizes High Charts library to display historical quote data for Apple, Tesla & Amazon.
 
 # Getting Started with Create React App
 
