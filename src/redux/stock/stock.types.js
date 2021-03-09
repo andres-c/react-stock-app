@@ -1,0 +1,7 @@
+const stockActionTypes = {
+  FETCH_STOCK_START: 'FETCH_STOCK_START',
+  FETCH_STOCK_SUCCESS: 'FETCH_STOCK_SUCCESS',
+  FETCH_STOCK_FAILURE: 'FETCH_STOCK_FAILURE',
+};
+
+export default stockActionTypes;
